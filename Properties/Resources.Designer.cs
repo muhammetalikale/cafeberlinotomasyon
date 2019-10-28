@@ -123,6 +123,16 @@ namespace CafeBerlinOtomasyon.Properties {
         /// <summary>
         ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
         /// </summary>
+        internal static System.Drawing.Bitmap PersonelEkleIdIcon {
+            get {
+                object obj = ResourceManager.GetObject("PersonelEkleIdIcon", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
         internal static System.Drawing.Bitmap ŞifreIcon {
             get {
                 object obj = ResourceManager.GetObject("ŞifreIcon", resourceCulture);
@@ -146,6 +156,16 @@ namespace CafeBerlinOtomasyon.Properties {
         internal static System.Drawing.Bitmap ŞifreIcon2 {
             get {
                 object obj = ResourceManager.GetObject("ŞifreIcon2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
+        internal static System.Drawing.Bitmap waiter_icon_png_21__1_ {
+            get {
+                object obj = ResourceManager.GetObject("waiter-icon-png-21 (1)", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

@@ -16,5 +16,11 @@ namespace CafeBerlinOtomasyon
         {
             InitializeComponent();
         }
+
+        private void personelEkleToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            frmPersonelEkle frmKullaniciEkle = new frmPersonelEkle();
+            frmKullaniciEkle.ShowDialog();
+        }
     }
 }

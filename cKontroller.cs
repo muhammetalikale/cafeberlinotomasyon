@@ -32,5 +32,22 @@ namespace CafeBerlinOtomasyon
                 return false;
             }
         }
+
+        public static bool veriVarmi(string sql)
+        {
+            cVeritabani.conn.Close();
+            cVeritabani.baglantiKontrol();
+            SqlCommand cmd = new SqlCommand(sql, cVeritabani.conn);
+            SqlDataReader dr = cmd.ExecuteReader();
+            if (dr.Read())
+            {
+                dr.Close();
+                return true;
+            }
+            else
+            {
+                return false;
+            }
+        }
     }
 }

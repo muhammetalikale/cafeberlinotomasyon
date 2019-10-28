@@ -47,12 +47,19 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="cKontroller.cs" />
+    <Compile Include="cPersonelIslemleri.cs" />
     <Compile Include="cVeritabani.cs" />
     <Compile Include="frmGiris.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="frmGiris.Designer.cs">
       <DependentUpon>frmGiris.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPersonelEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPersonelEkle.Designer.cs">
+      <DependentUpon>frmPersonelEkle.cs</DependentUpon>
     </Compile>
     <Compile Include="frmMasalar.cs">
       <SubType>Form</SubType>
@@ -64,6 +71,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="frmGiris.resx">
       <DependentUpon>frmGiris.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPersonelEkle.resx">
+      <DependentUpon>frmPersonelEkle.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frmMasalar.resx">
       <DependentUpon>frmMasalar.cs</DependentUpon>
@@ -102,6 +112,12 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\ŞifreIcon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PersonelEkleIdIcon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\waiter-icon-png-21 %281%29.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
