@@ -1,0 +1,10 @@
+D:\Yazılım\Projeler\CafeBerlinOtomasyon\bin\Debug\CafeBerlinOtomasyon.exe.config
+D:\Yazılım\Projeler\CafeBerlinOtomasyon\bin\Debug\CafeBerlinOtomasyon.exe
+D:\Yazılım\Projeler\CafeBerlinOtomasyon\bin\Debug\CafeBerlinOtomasyon.pdb
+D:\Yazılım\Projeler\CafeBerlinOtomasyon\obj\Debug\CafeBerlinOtomasyon.csprojAssemblyReference.cache
+D:\Yazılım\Projeler\CafeBerlinOtomasyon\obj\Debug\CafeBerlinOtomasyon.frmGiris.resources
+D:\Yazılım\Projeler\CafeBerlinOtomasyon\obj\Debug\CafeBerlinOtomasyon.Properties.Resources.resources
+D:\Yazılım\Projeler\CafeBerlinOtomasyon\obj\Debug\CafeBerlinOtomasyon.csproj.GenerateResource.cache
+D:\Yazılım\Projeler\CafeBerlinOtomasyon\obj\Debug\CafeBerlinOtomasyon.exe
+D:\Yazılım\Projeler\CafeBerlinOtomasyon\obj\Debug\CafeBerlinOtomasyon.pdb
+D:\Yazılım\Projeler\CafeBerlinOtomasyon\obj\Debug\CafeBerlinOtomasyon.frmMasalar.resources
