@@ -1,2 +1,2 @@
-# cafeberlinotomasyon
-Proje
+# Berlin Kafe Otomasyon
+La hadi la
