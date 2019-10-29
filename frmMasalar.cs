@@ -22,5 +22,17 @@ namespace CafeBerlinOtomasyon
             frmPersonelEkle frmKullaniciEkle = new frmPersonelEkle();
             frmKullaniciEkle.ShowDialog();
         }
+
+        private void personelBilgisiniDüzenleToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            frmPersonelBilgisiDuzenle frmPersonelBilgisiDuzenle = new frmPersonelBilgisiDuzenle();
+            frmPersonelBilgisiDuzenle.ShowDialog();
+        }
+
+        private void personelÇıkarToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            frmPersonelCikar frmPersonelCikar = new frmPersonelCikar();
+            frmPersonelCikar.ShowDialog();
+        }
     }
 }

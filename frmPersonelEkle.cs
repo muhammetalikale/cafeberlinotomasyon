@@ -19,7 +19,7 @@ namespace CafeBerlinOtomasyon
 
         private void btnPersonelEkleVazgec_Click(object sender, EventArgs e)
         {
-            if (MessageBox.Show("Kapatmak İstediğinize Emin misiniz?", "Uyarı!", MessageBoxButtons.YesNo, MessageBoxIcon.Warning) == DialogResult.Yes)
+            if (MessageBox.Show("Bu Pencereyi Kapatmak İstediğinize Emin misiniz?", "Uyarı!", MessageBoxButtons.YesNo, MessageBoxIcon.Warning) == DialogResult.Yes)
             {
                 this.Close();
             }
@@ -56,7 +56,7 @@ namespace CafeBerlinOtomasyon
                         txtPersonelEkleSoyad.Text = "";
                     }
                     else
-                        MessageBox.Show("Kullanıcı eklenemedi!");
+                        MessageBox.Show("Personel Ekleme İşlemi Başarısız Oldu.");
                 }
             }
         }

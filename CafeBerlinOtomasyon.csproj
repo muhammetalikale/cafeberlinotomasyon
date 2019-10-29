@@ -55,6 +55,18 @@
     <Compile Include="frmGiris.Designer.cs">
       <DependentUpon>frmGiris.cs</DependentUpon>
     </Compile>
+    <Compile Include="frmPersonelBilgisiDuzenle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPersonelBilgisiDuzenle.Designer.cs">
+      <DependentUpon>frmPersonelBilgisiDuzenle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPersonelCikar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPersonelCikar.Designer.cs">
+      <DependentUpon>frmPersonelCikar.cs</DependentUpon>
+    </Compile>
     <Compile Include="frmPersonelEkle.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -71,6 +83,12 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="frmGiris.resx">
       <DependentUpon>frmGiris.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPersonelBilgisiDuzenle.resx">
+      <DependentUpon>frmPersonelBilgisiDuzenle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPersonelCikar.resx">
+      <DependentUpon>frmPersonelCikar.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frmPersonelEkle.resx">
       <DependentUpon>frmPersonelEkle.cs</DependentUpon>

@@ -19,3 +19,5 @@ C:\Users\oxito\Documents\GitHub\cafeberlinotomasyon\obj\Debug\CafeBerlinOtomasyo
 C:\Users\oxito\Documents\GitHub\cafeberlinotomasyon\obj\Debug\CafeBerlinOtomasyon.exe
 C:\Users\oxito\Documents\GitHub\cafeberlinotomasyon\obj\Debug\CafeBerlinOtomasyon.pdb
 C:\Users\oxito\Documents\GitHub\cafeberlinotomasyon\obj\Debug\CafeBerlinOtomasyon.frmPersonelEkle.resources
+C:\Users\oxito\Documents\GitHub\cafeberlinotomasyon\obj\Debug\CafeBerlinOtomasyon.frmPersonelBilgisiDuzenle.resources
+C:\Users\oxito\Documents\GitHub\cafeberlinotomasyon\obj\Debug\CafeBerlinOtomasyon.frmPersonelCikar.resources
